@@ -15,4 +15,4 @@ The [International Institute of Spatial Lifecourse HEalth (ISLE)](http://jszy.wh
 ISLE focuses on understanding health risks and determinants at various stages of life, from infancy to old age, using an array of methodologies and technologies such as Geographic Information Systems (GIS), remote sensing, artificial intelligence, statistical analysis, and big data. The institute is at the forefront of a new interdisciplinary research paradigm that integrates health geography, spatial epidemiology, environmental health, infectious disease prediction and control, and medical resource planning.
 
 ## Q & A
-If you have any question, please contact me.
+If you have any question about it, please contact me via E-mail.
