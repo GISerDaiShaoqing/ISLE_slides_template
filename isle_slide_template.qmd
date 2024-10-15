@@ -1,0 +1,37 @@
+---
+title: "ISLE ppt模板"
+author: 
+  - name: "戴劭勍"
+    email: shaoqing.dai@outlook.com
+date: today
+date-modified: now
+date-format: "YYYY[年]M[月]D[日]"
+format: revealjs
+#  html:
+#    theme: darkly
+#editor: visual
+css: style.css
+title-slide-attributes:
+    data-background-image: img/whu_isle_ppt_bg.png
+    data-background-size: contain
+    data-background-opacity: "1"
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```

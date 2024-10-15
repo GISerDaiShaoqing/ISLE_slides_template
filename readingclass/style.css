@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+.title {
+  font-size: 100px !important;
+  color: #FFF5CD !important;
+}
+
+.quarto-title-author-name {
+  font-size: 60px;
+  color: #FFF5CD !important;
+}
+
+.quarto-title-author-email {
+  font-size: 40px;
+  color: #FFF5CD !important;
+}
+
+.date {
+  font-size: 40px;
+  color: #FFF5CD !important;
+}
+/*-- scss:rules --*/
